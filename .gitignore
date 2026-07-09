@@ -3,9 +3,12 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.venv/
+venv/
 .mypy_cache/
 .ruff_cache/
 .streamlit/secrets.toml
+data/processed/
 node_modules/
 dist/
 build/

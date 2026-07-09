@@ -5,17 +5,17 @@ This script reads CSV sources, converts rows to documents, builds a LlamaIndex
 GPTVectorStoreIndex, and stores embeddings in Pinecone.
 
 Example:
-  python3 scripts/rag_llamaindex_pinecone.py \
-    --source data/customer_feedback.csv \
-    --source data/jira_tickets.csv \
+  python3 src/legacy/rag_llamaindex_pinecone.py \
+    --source data/raw/customer_feedback.csv \
+    --source data/raw/jira_tickets.csv \
     --index product-rag \
     --namespace product-data \
     --upsert
 
 Query example:
-  python3 scripts/rag_llamaindex_pinecone.py \
-    --source data/customer_feedback.csv \
-    --source data/jira_tickets.csv \
+  python3 src/legacy/rag_llamaindex_pinecone.py \
+    --source data/raw/customer_feedback.csv \
+    --source data/raw/jira_tickets.csv \
     --index product-rag \
     --namespace product-data \
     --upsert \

@@ -2,8 +2,8 @@
 """RAG pipeline: clean, metadata, chunk, embed, store (Pinecone), retrieve.
 
 Usage examples:
-  python3 scripts/rag_pipeline.py --source data/customer_feedback.csv --limit 2 --dry-run
-  python3 scripts/rag_pipeline.py --source data/customer_feedback.csv --limit 50 --upsert --index my-rag-index
+  python3 src/legacy/rag_pipeline_legacy.py --source data/raw/customer_feedback.csv --limit 2 --dry-run
+  python3 src/legacy/rag_pipeline_legacy.py --source data/raw/customer_feedback.csv --limit 50 --upsert --index my-rag-index
 
 Requires: sentence-transformers, pandas, pinecone-client (only for upsert)
 """
@@ -195,7 +195,8 @@ def main():
         }
         import json
         base_name = '_'.join([os.path.splitext(os.path.basename(s))[0] for s in args.source])
-        out_path = f'scripts/dryrun_{base_name}.json'
+        os.makedirs('data/processed', exist_ok=True)
+        out_path = f'data/processed/dryrun_{base_name}.json'
         with open(out_path, 'w', encoding='utf-8') as f:
             json.dump(out_vectors, f)
         print('Dry-run saved to', out_path)
