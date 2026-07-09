@@ -1,0 +1,201 @@
+ticket_id,issue_type,priority,status,product_area,summary,effort_points
+JIRA-201,Tech Debt,Medium,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,2
+JIRA-202,Feature,Low,In Review,Authentication,Add guided SAML setup validation for enterprise admins,5
+JIRA-203,Research,Low,In Progress,Mobile App,Support mobile escalation approval actions,2
+JIRA-204,Research,Medium,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-205,Bug,Medium,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,13
+JIRA-206,Feature,High,In Progress,AI Assistant,Add source citations to AI Assistant summaries,2
+JIRA-207,Bug,High,In Progress,AI Assistant,Add source citations to AI Assistant summaries,5
+JIRA-208,Improvement,Low,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-209,Bug,Critical,In Review,Billing,Add billing impact preview before plan changes,8
+JIRA-210,Improvement,Medium,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-211,Bug,Low,Planned,Billing,Add billing impact preview before plan changes,2
+JIRA-212,Feature,High,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-213,Improvement,High,Backlog,Authentication,Add guided SAML setup validation for enterprise admins,1
+JIRA-214,Bug,Medium,In Review,AI Assistant,Add source citations to AI Assistant summaries,2
+JIRA-215,Bug,Critical,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-216,Bug,Critical,Backlog,Integrations,Improve CRM sync retry handling and handoff completeness,2
+JIRA-217,Research,Medium,In Review,Notifications,Improve notification routing for critical SLA alerts,13
+JIRA-218,Feature,Medium,Planned,Notifications,Improve notification routing for critical SLA alerts,3
+JIRA-219,Research,Critical,Backlog,Integrations,Improve CRM sync retry handling and handoff completeness,8
+JIRA-220,Improvement,High,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-221,Research,Critical,In Review,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-222,Tech Debt,Medium,In Review,Authentication,Add guided SAML setup validation for enterprise admins,2
+JIRA-223,Improvement,High,In Review,Dashboard,Persist dashboard filters across saved account views,13
+JIRA-224,Tech Debt,Medium,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-225,Improvement,High,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-226,Bug,Medium,Planned,Billing,Add billing impact preview before plan changes,1
+JIRA-227,Bug,High,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,8
+JIRA-228,Tech Debt,High,Planned,AI Assistant,Add source citations to AI Assistant summaries,2
+JIRA-229,Feature,High,In Progress,Authentication,Add guided SAML setup validation for enterprise admins,8
+JIRA-230,Bug,High,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-231,Tech Debt,Critical,Planned,Notifications,Improve notification routing for critical SLA alerts,2
+JIRA-232,Feature,High,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,8
+JIRA-233,Tech Debt,Critical,Done,AI Assistant,Add source citations to AI Assistant summaries,2
+JIRA-234,Research,High,Planned,Dashboard,Persist dashboard filters across saved account views,5
+JIRA-235,Bug,Low,Planned,AI Assistant,Add source citations to AI Assistant summaries,8
+JIRA-236,Feature,Low,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-237,Improvement,Medium,Planned,Mobile App,Support mobile escalation approval actions,3
+JIRA-238,Tech Debt,Low,Planned,Billing,Add billing impact preview before plan changes,8
+JIRA-239,Bug,High,In Progress,Billing,Add billing impact preview before plan changes,1
+JIRA-240,Tech Debt,High,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-241,Tech Debt,Medium,Planned,Authentication,Add guided SAML setup validation for enterprise admins,2
+JIRA-242,Research,High,In Review,AI Assistant,Add source citations to AI Assistant summaries,13
+JIRA-243,Feature,High,Done,Mobile App,Support mobile escalation approval actions,13
+JIRA-244,Improvement,High,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-245,Improvement,High,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-246,Feature,Medium,Backlog,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-247,Improvement,Low,Done,Notifications,Improve notification routing for critical SLA alerts,3
+JIRA-248,Improvement,Medium,Done,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-249,Research,Low,Backlog,AI Assistant,Add source citations to AI Assistant summaries,2
+JIRA-250,Tech Debt,Critical,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,13
+JIRA-251,Tech Debt,Medium,In Progress,Authentication,Add guided SAML setup validation for enterprise admins,2
+JIRA-252,Feature,High,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-253,Bug,Low,In Review,Authentication,Add guided SAML setup validation for enterprise admins,13
+JIRA-254,Feature,Critical,In Review,Notifications,Improve notification routing for critical SLA alerts,5
+JIRA-255,Tech Debt,High,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-256,Improvement,High,Planned,AI Assistant,Add source citations to AI Assistant summaries,2
+JIRA-257,Bug,High,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-258,Tech Debt,Medium,Backlog,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-259,Feature,Critical,Planned,Mobile App,Support mobile escalation approval actions,13
+JIRA-260,Bug,High,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-261,Bug,Medium,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-262,Feature,Low,In Progress,Notifications,Improve notification routing for critical SLA alerts,2
+JIRA-263,Feature,Medium,Done,AI Assistant,Add source citations to AI Assistant summaries,13
+JIRA-264,Improvement,Medium,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-265,Feature,Low,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-266,Feature,Low,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-267,Tech Debt,High,Done,Authentication,Add guided SAML setup validation for enterprise admins,5
+JIRA-268,Feature,Low,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,2
+JIRA-269,Bug,Medium,Backlog,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-270,Research,Medium,In Progress,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-271,Feature,Medium,In Review,Notifications,Improve notification routing for critical SLA alerts,3
+JIRA-272,Feature,Medium,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,5
+JIRA-273,Tech Debt,Medium,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-274,Feature,High,Backlog,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-275,Tech Debt,High,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-276,Feature,High,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,8
+JIRA-277,Research,Critical,In Review,AI Assistant,Add source citations to AI Assistant summaries,8
+JIRA-278,Research,Medium,In Review,Dashboard,Persist dashboard filters across saved account views,13
+JIRA-279,Improvement,High,Done,AI Assistant,Add source citations to AI Assistant summaries,8
+JIRA-280,Improvement,Low,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,2
+JIRA-281,Feature,High,Planned,Billing,Add billing impact preview before plan changes,1
+JIRA-282,Bug,Critical,In Review,Notifications,Improve notification routing for critical SLA alerts,2
+JIRA-283,Improvement,Medium,Backlog,Billing,Add billing impact preview before plan changes,1
+JIRA-284,Research,High,Done,AI Assistant,Add source citations to AI Assistant summaries,3
+JIRA-285,Tech Debt,High,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,13
+JIRA-286,Bug,Medium,Planned,Notifications,Improve notification routing for critical SLA alerts,8
+JIRA-287,Bug,High,Backlog,Authentication,Add guided SAML setup validation for enterprise admins,3
+JIRA-288,Improvement,Critical,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-289,Research,High,In Review,Notifications,Improve notification routing for critical SLA alerts,1
+JIRA-290,Feature,Medium,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-291,Improvement,High,In Review,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-292,Research,Critical,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-293,Bug,High,In Progress,Dashboard,Persist dashboard filters across saved account views,3
+JIRA-294,Tech Debt,High,In Progress,AI Assistant,Add source citations to AI Assistant summaries,3
+JIRA-295,Tech Debt,High,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,2
+JIRA-296,Feature,Medium,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-297,Research,High,Backlog,Integrations,Improve CRM sync retry handling and handoff completeness,2
+JIRA-298,Research,Medium,In Review,AI Assistant,Add source citations to AI Assistant summaries,13
+JIRA-299,Improvement,Critical,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-300,Feature,Low,Done,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-301,Improvement,Critical,Backlog,Billing,Add billing impact preview before plan changes,2
+JIRA-302,Feature,High,Planned,Dashboard,Persist dashboard filters across saved account views,1
+JIRA-303,Bug,Critical,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-304,Tech Debt,High,Done,Integrations,Improve CRM sync retry handling and handoff completeness,5
+JIRA-305,Bug,High,Planned,AI Assistant,Add source citations to AI Assistant summaries,3
+JIRA-306,Improvement,Medium,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-307,Tech Debt,Medium,In Progress,Mobile App,Support mobile escalation approval actions,13
+JIRA-308,Bug,Medium,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-309,Improvement,High,Planned,Billing,Add billing impact preview before plan changes,2
+JIRA-310,Feature,High,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,13
+JIRA-311,Improvement,Low,Backlog,Notifications,Improve notification routing for critical SLA alerts,5
+JIRA-312,Feature,High,Done,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-313,Tech Debt,High,In Progress,Dashboard,Persist dashboard filters across saved account views,13
+JIRA-314,Research,Critical,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,5
+JIRA-315,Tech Debt,Medium,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,13
+JIRA-316,Improvement,High,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,8
+JIRA-317,Bug,High,In Progress,Authentication,Add guided SAML setup validation for enterprise admins,8
+JIRA-318,Tech Debt,High,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-319,Tech Debt,Critical,In Progress,AI Assistant,Add source citations to AI Assistant summaries,3
+JIRA-320,Tech Debt,High,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,2
+JIRA-321,Improvement,High,Backlog,Billing,Add billing impact preview before plan changes,8
+JIRA-322,Tech Debt,High,Backlog,Notifications,Improve notification routing for critical SLA alerts,13
+JIRA-323,Tech Debt,Medium,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-324,Research,High,Done,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-325,Improvement,High,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,13
+JIRA-326,Feature,High,In Review,AI Assistant,Add source citations to AI Assistant summaries,13
+JIRA-327,Improvement,Medium,Planned,Mobile App,Support mobile escalation approval actions,13
+JIRA-328,Improvement,Medium,Backlog,Integrations,Improve CRM sync retry handling and handoff completeness,5
+JIRA-329,Tech Debt,High,Done,Billing,Add billing impact preview before plan changes,2
+JIRA-330,Tech Debt,High,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-331,Tech Debt,Medium,In Progress,Dashboard,Persist dashboard filters across saved account views,3
+JIRA-332,Tech Debt,High,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-333,Research,Low,Done,AI Assistant,Add source citations to AI Assistant summaries,8
+JIRA-334,Research,Critical,Done,Authentication,Add guided SAML setup validation for enterprise admins,1
+JIRA-335,Research,High,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-336,Feature,Low,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-337,Improvement,Critical,In Review,Notifications,Improve notification routing for critical SLA alerts,2
+JIRA-338,Feature,High,In Review,Mobile App,Support mobile escalation approval actions,3
+JIRA-339,Tech Debt,High,Backlog,Billing,Add billing impact preview before plan changes,5
+JIRA-340,Tech Debt,Medium,Planned,AI Assistant,Add source citations to AI Assistant summaries,8
+JIRA-341,Research,High,Backlog,Billing,Add billing impact preview before plan changes,2
+JIRA-342,Research,Medium,In Review,Notifications,Improve notification routing for critical SLA alerts,5
+JIRA-343,Bug,High,In Progress,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-344,Tech Debt,High,Done,Integrations,Improve CRM sync retry handling and handoff completeness,2
+JIRA-345,Bug,High,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,2
+JIRA-346,Tech Debt,Low,In Review,Mobile App,Support mobile escalation approval actions,8
+JIRA-347,Improvement,Medium,Backlog,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-348,Tech Debt,Critical,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-349,Research,Critical,Planned,Mobile App,Support mobile escalation approval actions,3
+JIRA-350,Research,Medium,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,2
+JIRA-351,Bug,Medium,Planned,Notifications,Improve notification routing for critical SLA alerts,2
+JIRA-352,Bug,High,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-353,Bug,Medium,In Progress,Mobile App,Support mobile escalation approval actions,8
+JIRA-354,Improvement,Low,Backlog,AI Assistant,Add source citations to AI Assistant summaries,13
+JIRA-355,Bug,High,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-356,Bug,Medium,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-357,Research,High,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-358,Tech Debt,Medium,Backlog,AI Assistant,Add source citations to AI Assistant summaries,13
+JIRA-359,Improvement,High,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,5
+JIRA-360,Bug,High,Done,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-361,Tech Debt,Low,Backlog,AI Assistant,Add source citations to AI Assistant summaries,5
+JIRA-362,Improvement,Medium,In Progress,Dashboard,Persist dashboard filters across saved account views,8
+JIRA-363,Tech Debt,High,In Progress,Dashboard,Persist dashboard filters across saved account views,2
+JIRA-364,Bug,High,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,13
+JIRA-365,Research,Medium,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-366,Bug,High,In Review,Authentication,Add guided SAML setup validation for enterprise admins,2
+JIRA-367,Improvement,Low,Backlog,Authentication,Add guided SAML setup validation for enterprise admins,3
+JIRA-368,Feature,Medium,In Progress,AI Assistant,Add source citations to AI Assistant summaries,3
+JIRA-369,Bug,Low,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-370,Tech Debt,Medium,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-371,Bug,Critical,Backlog,Authentication,Add guided SAML setup validation for enterprise admins,1
+JIRA-372,Feature,High,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,3
+JIRA-373,Research,Critical,In Progress,Mobile App,Support mobile escalation approval actions,13
+JIRA-374,Tech Debt,High,Planned,Authentication,Add guided SAML setup validation for enterprise admins,1
+JIRA-375,Research,Medium,In Review,AI Assistant,Add source citations to AI Assistant summaries,3
+JIRA-376,Research,High,In Review,Integrations,Improve CRM sync retry handling and handoff completeness,5
+JIRA-377,Bug,Low,Backlog,Billing,Add billing impact preview before plan changes,2
+JIRA-378,Research,Critical,In Review,Authentication,Add guided SAML setup validation for enterprise admins,8
+JIRA-379,Feature,High,In Progress,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-380,Bug,Critical,Planned,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-381,Bug,Critical,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,1
+JIRA-382,Bug,Medium,In Progress,AI Assistant,Add source citations to AI Assistant summaries,1
+JIRA-383,Tech Debt,High,Done,Dashboard,Persist dashboard filters across saved account views,1
+JIRA-384,Research,High,Planned,Integrations,Improve CRM sync retry handling and handoff completeness,5
+JIRA-385,Tech Debt,High,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,2
+JIRA-386,Bug,High,Planned,AI Assistant,Add source citations to AI Assistant summaries,8
+JIRA-387,Research,Critical,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,5
+JIRA-388,Tech Debt,Medium,In Progress,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-389,Improvement,Medium,In Review,AI Assistant,Add source citations to AI Assistant summaries,5
+JIRA-390,Feature,Low,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,8
+JIRA-391,Bug,Critical,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-392,Bug,Critical,Backlog,Integrations,Improve CRM sync retry handling and handoff completeness,1
+JIRA-393,Research,Low,Done,Notifications,Improve notification routing for critical SLA alerts,1
+JIRA-394,Improvement,Critical,In Progress,Authentication,Add guided SAML setup validation for enterprise admins,8
+JIRA-395,Improvement,Medium,In Review,Reporting,Optimize scheduled reporting exports for enterprise accounts,3
+JIRA-396,Tech Debt,High,Planned,AI Assistant,Add source citations to AI Assistant summaries,5
+JIRA-397,Improvement,High,Done,Mobile App,Support mobile escalation approval actions,5
+JIRA-398,Research,Low,Planned,Mobile App,Support mobile escalation approval actions,1
+JIRA-399,Tech Debt,High,In Progress,Mobile App,Support mobile escalation approval actions,8
+JIRA-400,Improvement,Medium,Backlog,Reporting,Optimize scheduled reporting exports for enterprise accounts,1

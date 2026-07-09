@@ -1,0 +1,101 @@
+case_id,severity,status,product_area,issue_summary,resolution_status
+SC-1001,High,Escalated,Billing,Admins cannot preview invoice impact before changing seats.,Linked to Roadmap
+SC-1002,Medium,Pending,Authentication,SAML setup errors block new enterprise admins during rollout.,Workaround Provided
+SC-1003,Critical,Escalated,Authentication,SAML setup errors block new enterprise admins during rollout.,Linked to Roadmap
+SC-1004,Medium,Escalated,Integrations,CRM handoff records occasionally miss the latest support context.,Workaround Provided
+SC-1005,High,Open,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1006,Low,Open,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Linked to Roadmap
+SC-1007,High,Pending,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1008,Critical,Escalated,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1009,High,Open,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1010,High,Escalated,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1011,Critical,Escalated,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1012,High,Pending,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1013,High,Pending,Billing,Admins cannot preview invoice impact before changing seats.,Linked to Roadmap
+SC-1014,Low,Resolved,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1015,Medium,Pending,Reporting,Large revenue-impact reports time out during leadership reviews.,Resolved
+SC-1016,Medium,Resolved,Integrations,CRM handoff records occasionally miss the latest support context.,Resolved
+SC-1017,Critical,Escalated,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1018,Medium,Resolved,Billing,Admins cannot preview invoice impact before changing seats.,Resolved
+SC-1019,Medium,Resolved,Dashboard,Dashboard filters reset when managers switch between account views.,Resolved
+SC-1020,Critical,Escalated,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1021,Low,Pending,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Resolved
+SC-1022,High,Escalated,Authentication,SAML setup errors block new enterprise admins during rollout.,Linked to Roadmap
+SC-1023,High,Resolved,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Linked to Roadmap
+SC-1024,Critical,Escalated,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1025,Medium,Open,Reporting,Large revenue-impact reports time out during leadership reviews.,Unresolved
+SC-1026,Medium,Open,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Unresolved
+SC-1027,Medium,Pending,Dashboard,Dashboard filters reset when managers switch between account views.,Resolved
+SC-1028,High,Pending,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1029,High,Resolved,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1030,Medium,Open,Reporting,Large revenue-impact reports time out during leadership reviews.,Resolved
+SC-1031,Low,Pending,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1032,Medium,Resolved,Integrations,CRM handoff records occasionally miss the latest support context.,Unresolved
+SC-1033,Medium,Resolved,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Unresolved
+SC-1034,High,Pending,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1035,High,Escalated,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1036,Critical,Escalated,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1037,High,Pending,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Linked to Roadmap
+SC-1038,Medium,Pending,Dashboard,Dashboard filters reset when managers switch between account views.,Unresolved
+SC-1039,Critical,Escalated,Billing,Admins cannot preview invoice impact before changing seats.,Linked to Roadmap
+SC-1040,High,Open,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1041,Low,Resolved,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Resolved
+SC-1042,Low,Resolved,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Unresolved
+SC-1043,High,Pending,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Linked to Roadmap
+SC-1044,Low,Resolved,Integrations,CRM handoff records occasionally miss the latest support context.,Unresolved
+SC-1045,High,Resolved,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1046,High,Resolved,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1047,High,Resolved,Authentication,SAML setup errors block new enterprise admins during rollout.,Linked to Roadmap
+SC-1048,High,Pending,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1049,High,Pending,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1050,Medium,Escalated,Reporting,Large revenue-impact reports time out during leadership reviews.,Unresolved
+SC-1051,Medium,Pending,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Resolved
+SC-1052,Medium,Resolved,Integrations,CRM handoff records occasionally miss the latest support context.,Workaround Provided
+SC-1053,Critical,Escalated,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1054,Low,Resolved,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1055,Medium,Pending,Reporting,Large revenue-impact reports time out during leadership reviews.,Unresolved
+SC-1056,High,Resolved,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1057,Critical,Escalated,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Linked to Roadmap
+SC-1058,Medium,Resolved,Authentication,SAML setup errors block new enterprise admins during rollout.,Unresolved
+SC-1059,High,Escalated,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Linked to Roadmap
+SC-1060,High,Resolved,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1061,Medium,Open,Dashboard,Dashboard filters reset when managers switch between account views.,Unresolved
+SC-1062,Critical,Escalated,Billing,Admins cannot preview invoice impact before changing seats.,Linked to Roadmap
+SC-1063,High,Open,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1064,High,Pending,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1065,High,Pending,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1066,Critical,Escalated,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Linked to Roadmap
+SC-1067,High,Escalated,Dashboard,Dashboard filters reset when managers switch between account views.,Linked to Roadmap
+SC-1068,High,Open,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1069,Low,Resolved,Billing,Admins cannot preview invoice impact before changing seats.,Unresolved
+SC-1070,Low,Open,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Workaround Provided
+SC-1071,High,Pending,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1072,Critical,Escalated,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1073,Medium,Escalated,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Linked to Roadmap
+SC-1074,Low,Open,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Unresolved
+SC-1075,High,Open,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1076,High,Open,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1077,High,Open,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1078,Critical,Escalated,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Linked to Roadmap
+SC-1079,Medium,Resolved,Authentication,SAML setup errors block new enterprise admins during rollout.,Unresolved
+SC-1080,Medium,Escalated,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1081,Critical,Escalated,Notifications,Critical SLA alerts are noisy for managers who own multiple queues.,Linked to Roadmap
+SC-1082,High,Pending,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1083,High,Resolved,Billing,Admins cannot preview invoice impact before changing seats.,Linked to Roadmap
+SC-1084,Critical,Escalated,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1085,Low,Resolved,Reporting,Large revenue-impact reports time out during leadership reviews.,Unresolved
+SC-1086,Low,Open,Billing,Admins cannot preview invoice impact before changing seats.,Linked to Roadmap
+SC-1087,Medium,Resolved,Authentication,SAML setup errors block new enterprise admins during rollout.,Workaround Provided
+SC-1088,Medium,Pending,Integrations,CRM handoff records occasionally miss the latest support context.,Workaround Provided
+SC-1089,Medium,Resolved,Billing,Admins cannot preview invoice impact before changing seats.,Workaround Provided
+SC-1090,Low,Open,Reporting,Large revenue-impact reports time out during leadership reviews.,Linked to Roadmap
+SC-1091,High,Open,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1092,Medium,Open,Integrations,CRM handoff records occasionally miss the latest support context.,Resolved
+SC-1093,Medium,Escalated,Authentication,SAML setup errors block new enterprise admins during rollout.,Resolved
+SC-1094,Low,Pending,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Unresolved
+SC-1095,Medium,Open,Reporting,Large revenue-impact reports time out during leadership reviews.,Workaround Provided
+SC-1096,Medium,Escalated,Integrations,CRM handoff records occasionally miss the latest support context.,Resolved
+SC-1097,High,Pending,Integrations,CRM handoff records occasionally miss the latest support context.,Linked to Roadmap
+SC-1098,High,Resolved,AI Assistant,AI Assistant summaries are useful but do not always cite the source ticket.,Linked to Roadmap
+SC-1099,Critical,Escalated,Mobile App,Mobile users cannot approve urgent escalations from push notifications.,Linked to Roadmap
+SC-1100,Medium,Resolved,Reporting,Large revenue-impact reports time out during leadership reviews.,Workaround Provided

@@ -1,0 +1,301 @@
+account_id,product_area,weekly_active_users,feature_adoption_rate,churn_risk,nps_score
+ACC-0001,Reporting,247,26,High,20
+ACC-0002,Notifications,28,56,Low,48
+ACC-0003,Notifications,193,57,Low,66
+ACC-0004,Integrations,814,24,High,25
+ACC-0005,Reporting,107,54,Low,66
+ACC-0006,Billing,805,86,Low,63
+ACC-0007,AI Assistant,391,55,Medium,38
+ACC-0008,Integrations,246,55,Medium,66
+ACC-0009,Notifications,447,70,Low,44
+ACC-0010,Reporting,500,38,High,32
+ACC-0011,Dashboard,624,53,Medium,70
+ACC-0012,Integrations,205,48,Medium,36
+ACC-0013,AI Assistant,544,58,Low,36
+ACC-0014,AI Assistant,716,46,Low,56
+ACC-0015,Reporting,121,48,Medium,45
+ACC-0016,Integrations,279,49,Medium,70
+ACC-0017,Notifications,638,84,Medium,53
+ACC-0018,Notifications,577,61,Medium,71
+ACC-0019,Reporting,391,33,High,25
+ACC-0020,Reporting,271,57,Medium,55
+ACC-0021,AI Assistant,804,58,Medium,61
+ACC-0022,Billing,777,90,Low,50
+ACC-0023,Reporting,114,32,High,14
+ACC-0024,Integrations,816,54,Medium,57
+ACC-0025,Reporting,176,57,Low,60
+ACC-0026,AI Assistant,160,27,High,23
+ACC-0027,Notifications,281,53,Low,50
+ACC-0028,AI Assistant,635,45,Low,38
+ACC-0029,Notifications,740,73,Medium,39
+ACC-0030,Reporting,667,33,High,23
+ACC-0031,Reporting,218,22,High,35
+ACC-0032,Integrations,211,55,Medium,38
+ACC-0033,Dashboard,702,87,Low,38
+ACC-0034,Mobile App,173,63,Low,41
+ACC-0035,AI Assistant,810,39,High,20
+ACC-0036,Integrations,427,44,Medium,48
+ACC-0037,AI Assistant,104,26,High,25
+ACC-0038,Integrations,367,57,Medium,53
+ACC-0039,Dashboard,477,86,Low,61
+ACC-0040,Reporting,279,58,Low,47
+ACC-0041,Notifications,584,80,Low,40
+ACC-0042,AI Assistant,360,54,Medium,43
+ACC-0043,Integrations,722,56,Medium,64
+ACC-0044,Integrations,800,46,Medium,51
+ACC-0045,Reporting,709,43,Medium,65
+ACC-0046,AI Assistant,276,52,Low,40
+ACC-0047,Notifications,705,88,Low,50
+ACC-0048,Integrations,373,42,Medium,69
+ACC-0049,AI Assistant,729,56,Low,52
+ACC-0050,Reporting,306,37,High,10
+ACC-0051,Notifications,89,91,Medium,71
+ACC-0052,Integrations,499,33,High,18
+ACC-0053,Mobile App,199,61,Medium,48
+ACC-0054,Reporting,252,34,High,31
+ACC-0055,Reporting,283,37,High,14
+ACC-0056,AI Assistant,219,36,High,34
+ACC-0057,Dashboard,171,87,Medium,42
+ACC-0058,Authentication,640,53,Medium,36
+ACC-0059,AI Assistant,647,52,Medium,56
+ACC-0060,Reporting,514,53,Medium,47
+ACC-0061,Integrations,780,47,Low,72
+ACC-0062,Billing,501,51,Medium,70
+ACC-0063,AI Assistant,526,24,High,19
+ACC-0064,Integrations,480,47,Low,43
+ACC-0065,Reporting,335,55,Medium,36
+ACC-0066,AI Assistant,400,35,High,26
+ACC-0067,Authentication,639,68,Medium,52
+ACC-0068,Integrations,573,33,High,16
+ACC-0069,Dashboard,639,65,Medium,57
+ACC-0070,AI Assistant,522,45,Low,63
+ACC-0071,Dashboard,385,74,Medium,61
+ACC-0072,Integrations,473,39,High,13
+ACC-0073,Billing,845,84,Low,42
+ACC-0074,Integrations,580,37,High,21
+ACC-0075,Reporting,161,46,Low,45
+ACC-0076,Integrations,192,52,Low,62
+ACC-0077,AI Assistant,657,53,Low,69
+ACC-0078,Mobile App,268,79,Medium,71
+ACC-0079,AI Assistant,719,47,Low,46
+ACC-0080,Reporting,232,25,High,34
+ACC-0081,Integrations,472,52,Low,57
+ACC-0082,Integrations,585,45,Medium,71
+ACC-0083,Integrations,433,44,Low,43
+ACC-0084,AI Assistant,602,44,Low,72
+ACC-0085,Reporting,811,56,Low,54
+ACC-0086,Mobile App,805,68,Medium,64
+ACC-0087,Authentication,486,72,Medium,45
+ACC-0088,Integrations,667,32,High,33
+ACC-0089,Mobile App,85,74,Medium,41
+ACC-0090,Reporting,363,32,High,15
+ACC-0091,AI Assistant,680,42,Medium,54
+ACC-0092,Integrations,631,39,High,28
+ACC-0093,Notifications,811,65,Medium,59
+ACC-0094,Reporting,200,48,Low,37
+ACC-0095,Reporting,757,30,High,15
+ACC-0096,Integrations,773,38,High,30
+ACC-0097,Authentication,418,61,Low,42
+ACC-0098,AI Assistant,77,28,High,23
+ACC-0099,AI Assistant,801,23,High,20
+ACC-0100,Reporting,118,55,Low,52
+ACC-0101,Billing,328,53,Medium,50
+ACC-0102,Dashboard,653,66,Medium,44
+ACC-0103,Billing,41,81,Low,38
+ACC-0104,Integrations,499,44,Medium,65
+ACC-0105,AI Assistant,573,56,Medium,64
+ACC-0106,Billing,617,82,Low,65
+ACC-0107,Notifications,367,81,Medium,66
+ACC-0108,Integrations,836,56,Low,41
+ACC-0109,Reporting,434,41,Medium,52
+ACC-0110,Reporting,322,31,High,8
+ACC-0111,AI Assistant,364,55,Low,54
+ACC-0112,AI Assistant,716,52,Low,67
+ACC-0113,Reporting,796,41,Low,63
+ACC-0114,Integrations,827,36,High,8
+ACC-0115,Reporting,205,57,Medium,62
+ACC-0116,Integrations,416,57,Medium,51
+ACC-0117,Billing,399,89,Medium,50
+ACC-0118,Integrations,444,27,High,28
+ACC-0119,AI Assistant,541,37,High,32
+ACC-0120,Reporting,303,39,High,28
+ACC-0121,Integrations,82,48,Low,47
+ACC-0122,Billing,664,66,Low,65
+ACC-0123,Reporting,729,39,High,27
+ACC-0124,Integrations,340,53,Low,37
+ACC-0125,Reporting,62,31,High,25
+ACC-0126,AI Assistant,202,23,High,11
+ACC-0127,Integrations,140,39,High,30
+ACC-0128,Integrations,250,50,Low,41
+ACC-0129,Billing,234,48,Medium,57
+ACC-0130,Reporting,816,48,Medium,67
+ACC-0131,Mobile App,350,77,Low,41
+ACC-0132,Integrations,69,31,High,16
+ACC-0133,AI Assistant,568,47,Low,66
+ACC-0134,Billing,848,60,Medium,60
+ACC-0135,Reporting,136,22,High,32
+ACC-0136,Integrations,406,37,High,32
+ACC-0137,Reporting,767,37,High,9
+ACC-0138,Dashboard,545,77,Low,49
+ACC-0139,Reporting,342,46,Medium,46
+ACC-0140,AI Assistant,774,24,High,25
+ACC-0141,Authentication,665,64,Medium,55
+ACC-0142,Dashboard,694,71,Low,49
+ACC-0143,Authentication,344,63,Medium,36
+ACC-0144,Integrations,825,32,High,16
+ACC-0145,Reporting,417,29,High,33
+ACC-0146,Dashboard,607,48,Low,66
+ACC-0147,AI Assistant,392,31,High,32
+ACC-0148,Integrations,266,27,High,13
+ACC-0149,Reporting,714,27,High,27
+ACC-0150,Reporting,73,43,Low,58
+ACC-0151,Billing,140,82,Low,67
+ACC-0152,Integrations,336,36,High,25
+ACC-0153,Mobile App,33,76,Low,60
+ACC-0154,AI Assistant,268,44,Low,38
+ACC-0155,Reporting,584,53,Medium,54
+ACC-0156,Integrations,206,56,Medium,72
+ACC-0157,Billing,343,82,Medium,65
+ACC-0158,Integrations,82,57,Low,69
+ACC-0159,Billing,281,76,Medium,70
+ACC-0160,Reporting,12,45,Medium,68
+ACC-0161,AI Assistant,31,46,Low,59
+ACC-0162,Dashboard,686,68,Low,70
+ACC-0163,Notifications,796,60,Medium,71
+ACC-0164,Integrations,639,31,High,17
+ACC-0165,Reporting,668,42,Medium,56
+ACC-0166,Authentication,56,54,Low,44
+ACC-0167,Billing,121,50,Low,67
+ACC-0168,AI Assistant,113,34,High,9
+ACC-0169,Notifications,550,90,Medium,52
+ACC-0170,Reporting,387,25,High,15
+ACC-0171,Authentication,683,48,Low,67
+ACC-0172,Integrations,491,27,High,33
+ACC-0173,AI Assistant,389,45,Medium,39
+ACC-0174,Integrations,763,55,Low,40
+ACC-0175,AI Assistant,233,41,Low,69
+ACC-0176,Integrations,115,28,High,31
+ACC-0177,Dashboard,206,82,Medium,48
+ACC-0178,Dashboard,583,84,Low,71
+ACC-0179,Notifications,702,54,Medium,65
+ACC-0180,Reporting,182,49,Low,47
+ACC-0181,Notifications,685,80,Medium,46
+ACC-0182,AI Assistant,372,56,Medium,56
+ACC-0183,Mobile App,794,71,Medium,63
+ACC-0184,Integrations,588,42,Low,70
+ACC-0185,Reporting,396,35,High,32
+ACC-0186,Integrations,470,45,Medium,61
+ACC-0187,AI Assistant,303,24,High,27
+ACC-0188,Integrations,542,23,High,12
+ACC-0189,AI Assistant,319,41,Low,50
+ACC-0190,Reporting,334,35,High,8
+ACC-0191,Integrations,108,57,Low,38
+ACC-0192,Integrations,171,51,Medium,44
+ACC-0193,Integrations,250,45,Low,52
+ACC-0194,Integrations,596,27,High,20
+ACC-0195,Reporting,763,58,Low,40
+ACC-0196,AI Assistant,189,42,Medium,67
+ACC-0197,Authentication,50,86,Medium,72
+ACC-0198,Notifications,801,53,Low,57
+ACC-0199,Mobile App,135,75,Medium,50
+ACC-0200,Reporting,661,22,High,32
+ACC-0201,Notifications,548,51,Medium,38
+ACC-0202,Mobile App,346,82,Low,68
+ACC-0203,AI Assistant,168,36,High,9
+ACC-0204,Integrations,782,47,Medium,72
+ACC-0205,Reporting,239,54,Low,63
+ACC-0206,Integrations,147,47,Low,57
+ACC-0207,Authentication,573,78,Low,61
+ACC-0208,Integrations,99,38,High,20
+ACC-0209,Notifications,504,56,Low,71
+ACC-0210,AI Assistant,511,34,High,20
+ACC-0211,Dashboard,260,83,Low,40
+ACC-0212,Integrations,807,39,High,21
+ACC-0213,Mobile App,127,91,Low,62
+ACC-0214,Notifications,207,71,Medium,56
+ACC-0215,Reporting,800,44,Low,55
+ACC-0216,Integrations,370,32,High,27
+ACC-0217,AI Assistant,463,50,Low,38
+ACC-0218,Dashboard,171,60,Medium,41
+ACC-0219,Authentication,647,51,Low,45
+ACC-0220,Reporting,363,40,Low,43
+ACC-0221,Integrations,35,50,Medium,57
+ACC-0222,Dashboard,220,82,Low,70
+ACC-0223,Integrations,649,57,Medium,45
+ACC-0224,AI Assistant,397,23,High,26
+ACC-0225,Reporting,273,55,Low,46
+ACC-0226,AI Assistant,820,40,Low,53
+ACC-0227,AI Assistant,80,51,Low,60
+ACC-0228,Integrations,690,39,High,35
+ACC-0229,Mobile App,311,54,Low,60
+ACC-0230,Reporting,401,36,High,24
+ACC-0231,AI Assistant,335,28,High,23
+ACC-0232,Integrations,202,56,Low,48
+ACC-0233,Reporting,52,57,Low,51
+ACC-0234,Integrations,414,43,Medium,46
+ACC-0235,Reporting,367,23,High,29
+ACC-0236,Integrations,652,44,Medium,55
+ACC-0237,Dashboard,843,80,Medium,39
+ACC-0238,AI Assistant,408,38,High,34
+ACC-0239,AI Assistant,242,57,Medium,45
+ACC-0240,Reporting,684,43,Medium,44
+ACC-0241,Authentication,439,72,Low,51
+ACC-0242,Billing,631,75,Medium,57
+ACC-0243,Reporting,223,56,Low,44
+ACC-0244,Integrations,153,56,Low,55
+ACC-0245,AI Assistant,452,55,Low,45
+ACC-0246,Billing,582,68,Low,70
+ACC-0247,Authentication,161,59,Medium,37
+ACC-0248,Integrations,433,42,Medium,55
+ACC-0249,Reporting,167,39,High,32
+ACC-0250,Reporting,121,34,High,12
+ACC-0251,Billing,632,49,Medium,72
+ACC-0252,AI Assistant,622,36,High,15
+ACC-0253,Dashboard,379,91,Low,41
+ACC-0254,Reporting,526,30,High,35
+ACC-0255,Reporting,200,52,Medium,60
+ACC-0256,Integrations,152,53,Medium,46
+ACC-0257,Dashboard,430,62,Low,36
+ACC-0258,Integrations,772,48,Low,48
+ACC-0259,AI Assistant,79,35,High,13
+ACC-0260,Reporting,716,50,Medium,56
+ACC-0261,Reporting,449,37,High,20
+ACC-0262,AI Assistant,415,46,Medium,72
+ACC-0263,AI Assistant,474,55,Low,65
+ACC-0264,Integrations,263,24,High,24
+ACC-0265,Reporting,764,56,Medium,38
+ACC-0266,AI Assistant,540,57,Medium,39
+ACC-0267,Dashboard,419,66,Medium,55
+ACC-0268,Integrations,182,40,Medium,63
+ACC-0269,Integrations,718,25,High,24
+ACC-0270,Reporting,486,31,High,34
+ACC-0271,Reporting,751,27,High,24
+ACC-0272,Integrations,196,29,High,32
+ACC-0273,AI Assistant,414,56,Low,62
+ACC-0274,Mobile App,195,76,Low,65
+ACC-0275,Reporting,477,34,High,10
+ACC-0276,Integrations,343,38,High,30
+ACC-0277,Billing,128,55,Low,64
+ACC-0278,Mobile App,756,53,Medium,68
+ACC-0279,Billing,56,72,Medium,46
+ACC-0280,AI Assistant,178,43,Low,45
+ACC-0281,Billing,327,51,Medium,55
+ACC-0282,Reporting,132,40,Low,44
+ACC-0283,Dashboard,24,48,Medium,65
+ACC-0284,Integrations,568,53,Medium,36
+ACC-0285,Reporting,234,53,Low,66
+ACC-0286,Reporting,93,48,Medium,36
+ACC-0287,AI Assistant,572,37,High,16
+ACC-0288,Integrations,62,57,Low,47
+ACC-0289,Billing,49,51,Medium,45
+ACC-0290,Reporting,695,24,High,26
+ACC-0291,Integrations,62,43,Low,42
+ACC-0292,Integrations,177,48,Low,54
+ACC-0293,Billing,48,77,Medium,41
+ACC-0294,AI Assistant,389,41,Medium,60
+ACC-0295,Reporting,788,26,High,21
+ACC-0296,Integrations,311,57,Low,66
+ACC-0297,Billing,349,55,Medium,69
+ACC-0298,Notifications,724,81,Low,49
+ACC-0299,AI Assistant,597,28,High,31
+ACC-0300,Reporting,507,55,Low,54

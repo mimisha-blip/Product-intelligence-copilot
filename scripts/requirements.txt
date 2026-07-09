@@ -1,0 +1,9 @@
+pandas
+sentence-transformers
+tqdm
+numpy
+openai
+langgraph
+pinecone
+python-dotenv
+streamlit
